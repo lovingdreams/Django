@@ -19,9 +19,9 @@ from user.urls import urlpatterns as user_urls
 
 
 urlpatterns = [
-    path("admin/", admin.site.urls),
+    path("johny/", admin.site.urls),
     # path(
-    #     "users/docs",
+    #     "johny/docs",
     #     schema_view.with_ui("swagger", cache_timeout=0),
     #     name="schema-swagger-ui",
     # ),
